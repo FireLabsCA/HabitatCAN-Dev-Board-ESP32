@@ -26,6 +26,14 @@ HabitatCAN is a local-first home automation standard that provides:
 - **Group and scene support** for complex automation
 - **Fault tolerance** with backup controllers and local autonomy
 
+## Board Images
+
+![HabitatCAN Dev Board - Side 1](pic/HabitatCAN%20Dev%20Board%20(ESP32)%20-%20Image%20-%20Side%201.png)
+
+![HabitatCAN Dev Board - Front](pic/HabitatCAN%20Dev%20Board%20(ESP32)%20-%20Image%20-%20Front.png)
+
+![HabitatCAN Dev Board - Back](pic/HabitatCAN%20Dev%20Board%20(ESP32)%20-%20Image%20-%20Back.png)
+
 ## Key Features
 
 ### Microcontroller
