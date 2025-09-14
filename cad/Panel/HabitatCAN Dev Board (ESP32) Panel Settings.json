@@ -1,0 +1,55 @@
+{
+    "layout": {
+        "rows": "3",
+        "cols": "2"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "clearance": "1mm",
+        "cutcurves": "True",
+        "layer": "Edge.Cuts"
+    },
+    "framing": {
+        "type": "railstb"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "7.5mm",
+        "voffset": "2.5mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "2.5mm",
+        "voffset": "2.5mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "2.5mm",
+        "text": "FireLabs HabitatCAN Dev Board (ESP32)"
+    },
+    "text2": {
+        "type": "simple",
+        "hoffset": "-20mm",
+        "voffset": "-3.5mm",
+        "width": "1mm",
+        "height": "1mm",
+        "text": "Copyright FireLabs 2025",
+        "anchor": "mb"
+    },
+    "text3": {
+        "type": "simple",
+        "hoffset": "-20mm",
+        "voffset": "-1.5mm",
+        "width": "1mm",
+        "height": "1mm",
+        "text": "Revision 3 (2025/09/14)",
+        "anchor": "mb"
+    },
+    "text4": {
+        "type": "simple",
+        "hoffset": "20mm",
+        "voffset": "-2.5mm",
+        "text": "JLCJLCJLCJLC",
+        "anchor": "mb"
+    }
+}
