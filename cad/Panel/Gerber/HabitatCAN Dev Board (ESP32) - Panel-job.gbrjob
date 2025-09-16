@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "9.0.4"
     },
-    "CreationDate": "2025-09-14T05:29:25-04:00"
+    "CreationDate": "2025-09-15T20:18:03-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "HabitatCAN Dev Board (ESP32) - Panel",
       "GUID": "48616269-7461-4744-9341-4e2044657620",
-      "Revision": "3"
+      "Revision": "4"
     },
     "Size": {
       "X": 177.2095,

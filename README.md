@@ -96,6 +96,14 @@ HabitatCAN is a local-first home automation standard that provides:
 | 7   | Reserved | Reserved for future use |
 | 8   | Reserved | Reserved for future use |
 
+### I2C Connector (J6) - QWIIC Compliant
+| Pin | Function | Description |
+|-----|----------|-------------|
+| 1   | GND      | Ground |
+| 1   | 3V3      | 3.3V Power |
+| 1   | SDA      | Serial Data |
+| 1   | SCL      | Serial Clock |
+
 ## HabitatCAN Development
 
 ### Device Types
@@ -169,7 +177,8 @@ A panelized version is available for batch manufacturing in the `cad/Panel/` dir
 
 ## Revision History
 
-- **Rev 3 (2025-09-14)**: Current revision with ESP32-C3-MINI-1 and TJA1051T
+- **Rev 4 (2025-09-15)**: Added QWIIC interface
+- **Rev 3 (2025-09-14)**: Cleaned up bugs and silkscreen layer (archived in `cad/Rev3/`)
 - **Rev 2**: Previous revision (archived in `cad/Rev2/`)
 - **Rev 1**: Initial design
 
